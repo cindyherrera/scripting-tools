@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo " .\echod.sh ab
+ab"
+
+.\echod.sh ab
+a b
