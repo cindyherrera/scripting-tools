@@ -1,0 +1,16 @@
+#contains wizard monies
+#galleons/sickles/knuts arrangement
+#17 knuts in a sickle
+#23 sickles in a galleon
+
+
+-1/8/0
+1/8/0
+2/3/4
+12/22/16
+0/7/14
+8/19/8
+5/7/1
+1/0/0
+5/7/1
+-3/2/4
